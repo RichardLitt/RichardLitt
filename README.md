@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello! 
 
-<!--
-**RichardLitt/RichardLitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me in a gentle list:
 
-Here are some ideas to get you started:
+- Open source programmer
+- Organizer of @sustainers
+- Organizer of @CURIOSSorg
+- Interim Executive Director of the GNOME Foundation
+- Professional conlanger
+- PhD student at Te Herenga Waka Victoria University of Wellington, in Aotearoa New Zealand
+- eBirder and iNaturalist user
+- Maintainer of many things
+  - Standard Readme
+  - Awesome-Remote-Job
+  - BirdingInVermont.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other things
+
+- he/him pronouns, and go punch a fascist for me
+- I like collaborating on science! Let me know if you've got something to talk about regarding birds!
+- All of my projects are on [Burnt Fen](https://burntfen.com)
