@@ -5,7 +5,6 @@
 - Open source programmer
 - Organizer of @sustainers
 - Organizer of @CURIOSSorg
-- Interim Executive Director of the GNOME Foundation
 - Professional conlanger
 - PhD student at Te Herenga Waka Victoria University of Wellington, in Aotearoa New Zealand
 - eBirder and iNaturalist user
