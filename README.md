@@ -3,11 +3,11 @@
 ## About me in a gentle list:
 
 - Open source programmer
-- Organizer of [@sustainers](https://github.com/sustainers
+- Organizer of [@sustainers](https://github.com/sustainers)
 - Organizer of [@CURIOSSorg](https://github.com/CURIOSSorg)
 - Professional conlanger
 - PhD student at Te Herenga Waka Victoria University of Wellington, in Aotearoa New Zealand
-- eBirder and iNaturalist user
+- [eBirder](https://ebird.org) and [iNaturalist](https://inaturalist.org) user
 - Maintainer of many things
   - [Standard Readme](https://github.com/RichardLitt/standard-readme/)
   - [Awesome-Remote-Job](https://github.com/lukasz-madon/awesome-remote-job)
