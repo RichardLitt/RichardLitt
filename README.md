@@ -15,6 +15,5 @@
 
 ## Other things
 
-- he/him pronouns, and go punch a fascist for me
 - I like collaborating on science! Let me know if you've got something to talk about regarding birds!
 - All of my projects are on [Burnt Fen](https://burntfen.com)
